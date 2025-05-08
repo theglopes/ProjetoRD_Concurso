@@ -18,3 +18,8 @@
 - Java 8+
 - Swing (JFrame, JPanel, JButton, JTextField, JTextArea, JComboBox)
 - NetBeans (GUI Builder)
+
+
+---
+
+Projeto desenvolvido por estudantes da Universidade Cruzeiro do Sul.
